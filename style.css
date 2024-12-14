@@ -23,6 +23,7 @@ header > img {
 }
 body {
     background-color: #1f1d1a;
+    min-height: 100vh
 }
 .h2-who {
     color: white;
