@@ -38,10 +38,10 @@ body {
     font-size: 18px;
 }
 .button-git {
-    color: #f9baff;
-    border: 1px solid black;
+    color: white;
+    border: 0.1px solid black;
     border-radius: 5px;
-    background-color: #1f1d1a;
+    background-color: #f9baff;
     display: flex;
     margin-left: 680px;
     margin-top: 30px;
